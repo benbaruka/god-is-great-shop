@@ -553,7 +553,7 @@ a:hover {
 .fashion_section {
     width: 100%;
     float: left;
-    padding-bottom: 150px;
+    padding-bottom: 0px;
 }
 
 .fashion_taital {
@@ -818,7 +818,8 @@ a:hover {
     width: 100%;
     float: left;
     background-color: #252525;
-    height: auto;
+    /* height: auto; */
+    margin-bottom: 0;
 }
 
 .footer_logo {
